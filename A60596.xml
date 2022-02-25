@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. Salmon's pills, spirit, drops, and balsam Prepared and made at his house at the east-end of Pauls, next door to the Free-school, London. Published by authority.</title>
+            <author>Salmon, William, 1644-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60596</idno>
+            <idno type="STC">Wing S425A</idno>
+            <idno type="STC">ESTC R219877</idno>
+            <idno type="EEBO-CITATION">99831324</idno>
+            <idno type="PROQUEST">99831324</idno>
+            <idno type="VID">35787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60596)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2041:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. Salmon's pills, spirit, drops, and balsam Prepared and made at his house at the east-end of Pauls, next door to the Free-school, London. Published by authority.</title>
+                  <author>Salmon, William, 1644-1713.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Cropped; some print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Pharmacology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_medicines">
+            <pb n="1" facs="tcp:35787:1" rendition="simple:additions"/>
+            <head>Dr. <hi>Salmon's</hi> Pills, Spirit, Drops, and Balſam.</head>
+            <head type="sub">Prepared and made at his Houſe at the Eaſt-end of <hi>Pauls,</hi> next door to the Free-School, <hi>London.</hi>
+            </head>
+            <p>Publiſhed by Authority.</p>
+            <p n="1">I.</p>
+            <p>OUR PILLS cure the <hi>Scurvy, Dropſie, Jaundice, Gout, Agues, Feavers, Kings-Evil, Rickets, Melancholly, Lethargy, Frenſie, Madneſs, ſtinking-breath, ſhortneſs of Breath, Green-ſickneſs, want of Appetite, Vomiting, ſtoppa<g ref="char:EOLhyphen"/>ges of the Stomach, Liver and Spleen, Worms, ſtoppages of the Reins and Bladder, heat of <g ref="char:V">Ʋ</g>rine, Barrenneſs in Women, ſtop<g ref="char:EOLhyphen"/>page of their Courſes, Fits of the Mother,</hi> and other Diſeaſes belonging to that Sex; <hi>Dropſie, Scurvy, Gout</hi> and <hi>Agues</hi> they have often cured (in a month, three weeks, yea in fourtee<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dayes time) and that ſome<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s when hope of Recovery has been paſt. They are an excellent, ſafe, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d gentle Purge, purging by Stool, Flegm, Choler and Melancholly. They diſpoſe old Ulcers, Fiſtulaes, running Sores, or other break<g ref="char:EOLhyphen"/>ings-out, to a ſpeedy healing, by purging away the evil hu<g ref="char:EOLhyphen"/>mors which feed them. They rectify moſt Diſtempers of the Head, quicken the Senſes, clear the Sight, add a good colour to the Face, and make the Body able to withſtand Diſeaſes. They purifie, cleanſe, and ſweeten the Blood, reſiſt Corruption and Putrifaction of Humors, and Diſeaſes thence proceeding, afflicting the Head, Stomach, Liver, Spleen, Gall, Reins, Bladder, or Joynts. In a word, theſe Pills are a cheap, certain, and eaſie help for moſt Diſeaſes happening to the Bodies of Man, Woman, or Child, as ſome thouſands of perſons in this Kingdom can upon their own knowledg teſtify; Performing what is here ſpoken of, with<g ref="char:EOLhyphen"/>out hazard of Body, Purſe, or Reputation.</p>
+            <p n="2">II.</p>
+            <p>Our SPIRIT cures almoſt all diſeaſes of the Head, Breaſt, and Lungs; as <hi>Headach, Vertigo</hi> or <hi>Giddineſs, dimneſs of the
+<pb facs="tcp:35787:2"/>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>neſs of Breath, difficulty of Breathing, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> worms,</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ickets, Dropſie, Scurvy,</hi> and <hi>Gout;</hi> diſſolves and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>y the <hi>Stone and Gravel;</hi> and indeed performs all things that Our Pills do, containing all the Vertues of them in as full and ample meaſure as we have before declared: For this is only the Spirit of our Pills, being extracted from them, and only prepared for the ſakes of Children, and ſuch other perſons as cannot ſwallow Our Pills; and therefore every one may chuſe which they like beſt. It is exceeding pleaſant, and purges nobly without making ſick.</p>
+            <p n="3">III.</p>
+            <p>Our Cordial DROPS are a wonderful Reſtorative in <hi>Con<g ref="char:EOLhyphen"/>ſumptions</hi> (curing thoſe which have been given over by many Phyſicians <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtoring ra<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cal moiſture, and comforting every member and part of Mans Body. They give eaſe in the <hi>Tooth-ach</hi> immediately, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d in pains of the <hi>Ears;</hi> help<g ref="char:EOLhyphen"/>ing moſt Diſeaſes of the <hi>Breaſt</hi> and <hi>Lungs,</hi> as <hi>Coughs, Defluxi<g ref="char:EOLhyphen"/>ons of Rheum Vomiting</hi> and <hi>Loathing of Meats.</hi> They eaſe almoſt in a moment any <hi>pain and griping of the Breast, Bowels</hi> or <hi>Joints</hi> proceeding of <hi>Wind, Colds</hi> or <hi>Surfeits,</hi> or any other cauſe whatſoever; making a lively countenance, a chearful heart, and a healthful diſpoſition. They give eaſe inſtant<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y in the <hi>Stone and Gravel,</hi> whether in the <hi>Reins</hi> or <hi>Bladder,</hi> breaking, diſſolving, and bringing of it away. They are <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> againſt all manner of Poiſon, Venom, biting of Ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ellent thing againſt many other Diſeaſes, as well in the humors and ſolid pai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, as in the Spirits; taking away heavineſs and me<g ref="char:EOLhyphen"/>lancholly; performing all their operations with great ſafe<g ref="char:EOLhyphen"/>ty, ſpeed, dexterity, and eaſe; being fitted for all perſons of what age, ſex, or quality ſoever; ſtrengthning <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Brain and Memory, fortifying the Senſes, chearing, the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, com<g ref="char:EOLhyphen"/>forting Nature, reſtoring the Body, and reviving all the Spi<g ref="char:EOLhyphen"/>rits, natural, vital and animal.</p>
+            <p n="4">IV.</p>
+            <p>Our BALSAM is eminent againſt <hi>Pains, Sprains, Swellings, Bruiſes, Burns, Scalds, Scabs, Wounds, Sores, old <g ref="char:V">Ʋ</g>lcers, Fi<g ref="char:EOLhyphen"/>ſtulaes,</hi> and the like, though of long ſtanding. It is very good againſt the <hi>Itch, Pimples, Tetters, Ringworms, Morphew, Scurf <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> B<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſts, or any deformity or breaking-out whatſoever.</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the part <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> therefore is of good uſe in weak Limbs, ſhrinking of the S<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ne<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and for any Wound, Cut or Bruiſe in the Head, or any other part. It is very good to anoint with in <hi>Palſies,
+<pb facs="tcp:35787:2"/>Gouts, Sc<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ca, Numoneſs;</hi> for which <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no ourw<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Medicine is better. It comforts the Nerves and Joy<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is very good againſt the Cramp, or any outward pain<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> truly Noble Balſam, doing of it ſelf all the intention, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Curing: It ripens Swellings, cleanſes Ulcers, breeds Fleſh, and ſkins any Wound or Sore, not ſuffering corruption, pu<g ref="char:EOLhyphen"/>trifaction, or dead fleſh there; being really and in truth the poor Countrymans preſent help to have recourſe to in time of need.</p>
+            <p n="5">V.</p>
+            <p>With theſe Medicaments we cured one <hi>Elizabeth Peters,</hi> a Shoomakers Wife in Angel-Alley in <hi>Bethlehem,</hi> of a deep Conſumption: We cured one <hi>Ambroſe Webb,</hi> at the three-Compaſſes in Weſtbury-ſtreet, of a great bleeding at Noſe, and the Scurvy. We cured a Servant of the ſaid <hi>Ambroſe</hi> of the Scurvy and Dropſie. We cured the ſame Servant after<g ref="char:EOLhyphen"/>wards of malignant Ulcers in his feet and toes. We cured a Man who had gotten the POX, after he had been twice fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt with Oyntments. We cured another of the POX, (who muſt here be nameleſs) when he was broke out into Botches, Boyls and Ulcers almoſt all over his whole body. We cured a Youth, the ſon of one <hi>William Ogbon</hi> a Taylor, near the Black-Boy in <hi>Barnaby-ſtreet,</hi> of a long tedious Ague and Madneſs. We cured one <hi>Edmond Whitaker</hi> of a languiſh<g ref="char:EOLhyphen"/>ing diſeaſe, when hope of Life was diſpaired of. We cured one <hi>John Leek,</hi> at the Fiſhmongers-Arms without Cripple<g ref="char:EOLhyphen"/>gate, extreamly diſeaſed of the Gout. We cured one <hi>Robert Cotton</hi> at <hi>Greenwich</hi> of a long and tedious Quartan-Ague. We cured one <hi>Cox</hi> in <hi>Well and Bucket</hi> Alley in <hi>Old-ſtreet,</hi> of great Obſtructions of the Liver &amp; Spleen, and of the Scurvy. We cured one <hi>Fruin</hi> a Cutler, next door to the Bull in Cheapſide, of the Scurvy, Melancholly, and a Peſtilential Tumor under one of his Armholes. We cured a Corniſh<g ref="char:EOLhyphen"/>man (at one <hi>Mary Bouchiers</hi> at the Corner houſe by Long-Alley end in great <hi>Moor fields</hi>) of the Gout, although near threeſcore years of age, and having gone for about twelve years on Crutches. We cured one <hi>Tho Chew</hi> at the Green-Man &amp; Still, a Diſtiller without Smithfield-Bars, of the Gout. We cured one <hi>John Clark</hi> a Taylor, at the Caſtle without Smithfield-Bars, of a Surfeit and violent Feaver. We cured one <hi>Elizabeth Speed</hi> at an Oyl-ſhop in <hi>Duke ſtreet</hi> near <hi>Lin<g ref="char:EOLhyphen"/>colns-Inn-fields,</hi> of terrible fore and painful Breaſts. We cured one <hi>Eliz. Frankton,</hi> a Cutlers Wife in <hi>Petty-France,</hi> of a violent Feaver and Surfeit. We cured one <hi>John Kni<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi>
+               <pb n="4" facs="tcp:35787:3"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Wheeler-ſtreet</hi> of the Scurvy and Gout, pains all over his body. We cured one <hi>Nicholas Earl</hi> at the Cup in Long-Alley, of the Dropſie. We cured one <hi>Oaks</hi> in <hi>Fox-yard</hi> in <hi>White<g ref="char:EOLhyphen"/>croſs ſtreet,</hi> of an eminent and painful Tumor in the Cods. We cured one <hi>Joan Ingram,</hi> near the Bear in <hi>Moor-fields,</hi> of the Gout. We cured one <hi>Anthony Geſture,</hi> at the Cock in <hi>Wapping,</hi> of a Conſumption. We cured one <hi>Abigail Knight,</hi> at the Hoſpital gate in Smithfield, of a Pleuriſie.</p>
+            <p>Together with more than a thouſand others, which Se<g ref="char:EOLhyphen"/>creſie, Brevity, and our private Intereſt engages us to con<g ref="char:EOLhyphen"/>ceal: theſe things being only related for confirmation of the Truths aforeſaid, and ſatisfaction of the Incredulous.</p>
+            <p n="6">VI.</p>
+            <p>Laſtly, the full uſe of theſe Medicaments in every Diſeaſe mentioned, is contained in a little Book, which is alwayes given with them, where you may find directions at large. The price of a Box of Pills (containing five, ſix, ſeven, or more Purges) is Two ſhillings ſix-pence; the price of a Glaſs of our Purging Spirit, the ſame: the price of a Glaſs of Our Drops (containing ſix, ſeven, eight, or ten Doſes) One ſhilling ſix-pence: And of a Box of our Balſam, a ſhil<g ref="char:EOLhyphen"/>ling. Theſe Medicaments are cheap, ſafe, and durable; for they will keep many years, and work all their good effects as well ten or twenty years hence, as now. They are ſealed up with our proper Signet, bearing a <hi>Lion couchant</hi> with a <hi>Star</hi> over him: And are to be ſold by</p>
+            <p>
+               <hi>Mattha Frip</hi> at <hi>Cows</hi> in the <hi>Iſle of Wight.</hi>
+            </p>
+            <p>And at the Author's Houſe at the Eaſt end of <hi>Pauls,</hi> next door to the Free-School; where he may be ſpoke with every day from morning till four in the afternoon; and will with the bleſſing of God, undertake the Cure of any Diſeaſe (if curable) in Man, Woman, or Child, and per<g ref="char:EOLhyphen"/>form the ſame with as great Care, as much Eaſe, in as ſhort time, and for as ſmall Charge, as may in Reaſon be ex<g ref="char:EOLhyphen"/>pected, as ſome thouſands in this City can upon their own experience witneſs.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
